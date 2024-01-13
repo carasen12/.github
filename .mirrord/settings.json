@@ -1,0 +1,22 @@
+{[INFO] [auth] [2023-11-17T21:15:48.965Z
+    "security.workspace.trust.untrustedFiles": "newWindow",
+    "workbench.editorAssociations": {
+        "*.zip": "default",
+        "*.exe": "default"
+    },
+    "editor.unicodeHighlight.invisibleCharacters": false,
+    "prolead.runTime.timesActivated": 14,
+    "prolead.templates.configFile": "c:\\Users\\carlos\\.vscode\\extensions\\chairimpsec.prolead-1.2.8/templates/config.set",
+    "proles.templates.designFile": "c:\\Users\\carlos\\.vscode\\extensions\\chairimpsec.prolead-1.2.8/templates/design.v",
+    "prolead.templates.libraryFile": "c:\\Users\\carlos\\.vscode\\extensions\\chairimpsec.prolead-1.2.8/templates/library.lib",
+    "prolead.templates.linkerFile": "c:\\Users\\carlos\\.vscode\\extensions\\chairimpsec.prolead-1.2.8/templates/linker.ld",
+    "security.allowedUNCHosts": [
+        "MYCLOUDEX2ULTRA"
+    ],
+    "prolead.runTime.welcomePage": false,
+    "vscode-edge-devtools.browserFlavor": "Default",
+    "anakintern.gpt3.apiBaseUrl": "https://api.cheapgptplus.com/v1",
+    "workbench.activityBar.location": "hidden",
+    "cloudcode.project": "carasen12",
+    "tabnine.experimentalAutoImports": customData
+    https://view.awsapps.com/start#/
