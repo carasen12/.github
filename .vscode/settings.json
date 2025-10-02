@@ -1,4 +1,28 @@
 {
     "workbench.colorCustomizations": {},
-    "iis.configDir": ""
+    "iis.configDir": "",
+    "githubPullRequests.experimental.useQuickChat": true,
+    "githubPullRequests.neverIgnoreDefaultBranch": true,
+    "githubPullRequests.queries": [
+        {
+            "label": "Copilot on My Behalf",
+            "query": "repo:${owner}/${repository} is:open author:copilot involves:${user}"
+        },
+        {
+            "label": "Local Pull Request Branches",
+            "query": "default"
+        },
+        {
+            "label": "Waiting For My Review",
+            "query": "repo:${owner}/${repository} is:open review-requested:${user}"
+        },
+        {
+            "label": "Created By Me",
+            "query": "repo:${owner}/${repository} is:open author:${user}"
+        },
+        {
+            "label": "All Open",
+            "query": "default"
+        }
+    ]
 }
